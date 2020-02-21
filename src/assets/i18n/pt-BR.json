@@ -1,0 +1,27 @@
+{
+  "home": {
+    "technologies": "Tecnologias",
+    "techInfo": "Algumas das tecnologias utilizadas em meus projetos",
+    "whoAmI": "Quem sou eu?",
+    "aboutMe": "Desenvolvedor de sistemas Web & Mobile apaixonado pelo que faz. O amor por meu filho pequeno me fez sair do trabalho convencional e focar numa carreira Freelancer, trabalhando remotamente para clientes de todo mundo, focando sempre em desenvolver um trabalho de altíssima qualidade, com as tecnologias mais atuais e stacks que se aproximam do ideal.",
+    "wantContact": "Deseja entrar em contato?"
+  },
+  "techs": {
+    "typeScript": "É um superconjunto JavaScript que permite criar aplicações rápidas e escaláveis, com código organizado e limpo.",
+    "angular": "Um dos frameworks modernos mais potentes da atualizade, que combina muito bem com diversas stacks, permitindo desenvolver para WEB, MOBILE e até para Desktop.",
+    "reactNative": "Poderosíssima biblioteca para desenvolvimento mobile utilizando JavaScript, criando Apps com código NATIVO tanto para Android quanto para iOS. Criada pelo Facebook e mundialmente difundida.",
+    "javaScript": "De longe a linguagem multiplataformas mais importantes da atualidade, principalmente na parte Web. Possibilita criação de sistemas sensacionais para as mais diversas plataformas.",
+    "html": "Um dos pilares da Web moderna, permitindo desenvolvimento de páginas web estáticas, dinâmicas e funcionais.",
+    "css": "Estilização para web que permite efeitos e animações incríveis",
+    "nodeJs": "Interpretador JavaScript muito utilizado para desenvolvimento do backend das aplicações, permitindo aplicações enxutas, rápidas, escaláveis e robustas.",
+    "expo": "Ferramenta utilizada em conjunto com React Native para dar agilidade no desenvolvimento de Apps",
+    "ionic": "Um SDK muito poderoso para criar Apps multiplataformas em conjunto com Angular e TypeScript"
+  },
+  "common": {
+    "name": "Nome",
+    "email": "E-Mail",
+    "send": "Enviar",
+    "message": "Mensagem",
+    "tellUs": "Conte-me o que você precisa"
+  }
+}

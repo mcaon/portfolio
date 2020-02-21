@@ -1,0 +1,27 @@
+{
+  "home": {
+    "technologies": "Technologies",
+    "techInfo": "Some of the technologies used in my projects",
+    "whoAmI": "Who am I?",
+    "aboutMe": "Web & Mobile Developer passionate about what I do. The love for my young son made me leave conventional work and focus on a Freelancer career, working remotely for clients from all over the world, always focusing on developing a high quality job, with the most current technologies and stacks that approach the ideal.",
+    "wantContact": "Want to contact?"
+  },
+  "techs": {
+    "typeScript": "It is a JavaScript superset that allows to create fast and scalable applications, with clean and organized code.",
+    "angular": "One of the most powerful modern frameworks today, which combines very well with several stacks, allowing to develop for WEB, MOBILE and even for Desktop.",
+    "reactNative": "Very powerful library for mobile development using JavaScript, creating Apps with NATIVE code for both Android and iOS. Created by Facebook and spread worldwide.",
+    "javaScript": "By far the most important multiplatform language today, mainly on the Web. It allows the creation of sensational systems for the most diverse platforms.",
+    "html": "One of the pillars of the modern Web, allowing the development of static, dynamic and functional web pages.",
+    "css": "Web styling that allows for amazing effects and animations",
+    "nodeJs": "JavaScript interpreter widely used for backend development, allowing lean, fast, scalable and robust applications.",
+    "expo": "Tool used in conjunction with React Native to speed up the development of Apps.",
+    "ionic": "A very powerful SDK for creating cross-platform apps in conjunction with Angular and TypeScript."
+  },
+  "common": {
+    "name": "Name",
+    "email": "E-Mail",
+    "send": "Send",
+    "message": "Message",
+    "tellUs": "Tell me what you need"
+  }
+}
